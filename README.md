@@ -1,4 +1,4 @@
-# <div align = "center"> 💫 Hi, I'm Nitin </div>
+# <div align = "center"> 💫 Hola, I'm Nitin </div>
 
 👨‍💻 Android Developer & DSA Enthusiast  
 🎯 Building apps with Jetpack Compose  
