@@ -1,4 +1,5 @@
-# <div align = "center"> 💫 Hola, I'm Nitin </div>
+# <div align = "center"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXNxNHoxdXdlYWJvYW80dmFpbHFsYXUyYXg4eml5OHBoNmd0dmE3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Jd5YlXOVTcQtW/giphy.gif" width="50px"> Hola, I'm Nitin    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmM3ZWJwZ3Y3YWZ3bmwxYzdqN3Nrb2UycWhmdTdwbGF3OXh1dHlhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fAT2Db0j0Mblu/giphy.gif" width="50px">
+ </div>
 
 👨‍💻 Android Developer & DSA Enthusiast  
 🎯 Building apps with Jetpack Compose  
