@@ -4,7 +4,7 @@
 🎯 Building apps with Jetpack Compose  
     
 🔭 I’m currently working on Jetpack Compose-based Android apps  
-💡 Solving DSA problems in C++ and Kotlin  
+💡 Solving DSA problems in C++   
 
 🤝 Looking to collaborate on beginner-friendly Android/Kotlin projects  
 🚀 Exploring advanced Jetpack Compose animations and backend integration  
